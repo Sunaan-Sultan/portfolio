@@ -4,11 +4,11 @@ Installing Webfonts
 2. Add this code to your website:
 
 @font-face {
-    font-family: 'Formula1-Display-Bold-Bold';
-    src:url('Formula1-Display-Bold-Bold.ttf.woff') format('woff'),
-        url('Formula1-Display-Bold-Bold.ttf.svg#Formula1-Display-Bold-Bold') format('svg'),
-        url('Formula1-Display-Bold-Bold.ttf.eot'),
-        url('Formula1-Display-Bold-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-family: 'Photonica';
+    src:url('Photonica.ttf.woff') format('woff'),
+        url('Photonica.ttf.svg#Photonica') format('svg'),
+        url('Photonica.ttf.eot'),
+        url('Photonica.ttf.eot?#iefix') format('embedded-opentype'); 
     font-weight: normal;
     font-style: normal;
 }
@@ -16,7 +16,7 @@ Installing Webfonts
 Add the font name to your CSS styles. For example:
 
 h1 { 
-   font-family: 'Formula1-Display-Bold-Bold';
+   font-family: 'Photonica';
 }  
 
 Troubleshooting Webfonts

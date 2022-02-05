@@ -1,9 +1,0 @@
-@font-face {
-    font-family: Formula1-Display-Bold-Bold;
-    src:url(Formula1-Display-Bold-Bold.ttf.woff) format(woff)
-        font-style: normal;
-}
-
-h1{
-    font-family: Formula1-Display-Bold-Bold;
-}
